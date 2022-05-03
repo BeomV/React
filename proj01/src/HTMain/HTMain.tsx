@@ -1,11 +1,14 @@
 import React from "react";
-import './HTMain.css';
+import './HTmain.css';
 
-function HTMain() {
-    return (
-        <div>Header</div>
+function HTmain() {
+    return <div className="bgmenu">
+        <img src="./images/bg-main0.jpg"></img>            
 
-    )
+
+
+
+    </div>
+
 }
-
-export default HTMain;
+export default HTmain;

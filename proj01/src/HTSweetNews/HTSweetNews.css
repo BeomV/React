@@ -1,8 +1,229 @@
-.HTSweetNews {
-    text-align: center;
-  }
+.newsbody {
+    margin: 0px;
+    padding: 0px;
+    height: 1000px;
+    position: relative;
+    background-color: rgb(255, 250, 244);
+}
 
-  .HTSweetNews-logo {
-    height: 40vmin;
-    pointer-events: none;
-  }
+ul.boxcont {
+    left: 200px;
+    width: 280px;
+    height: 180px;
+    position: absolute;
+    background-color: #fff;
+
+
+}
+
+ul.boxcont li {
+    float: left;
+    margin: 0;
+    padding-top: 30px;
+ list-style: none;   
+ color: rgb(255, 51, 160);
+ font-weight: 600;
+ 
+}
+
+ul.boxcont .day {
+    float: right;
+    font-size: 12px;
+    padding-right: 20px;
+    padding-top: 30px;
+    color: #888;
+    
+
+}
+ul.boxcont h1 {
+    float: left;
+    margin: 0px;
+    padding: auto;
+    left: 10px;
+    top: 20px;
+    font-size: 19px;
+    font-weight: 400;
+    color: #888;
+    position: absolute;
+}
+ul.boxcont span{
+    font-size: 12px;
+    margin: 0;
+    left: 25px;
+    float: left;
+    padding: auto;
+    position: absolute;
+    top: 120px;
+    text-align: left;
+    width: 280px;
+    color: #ccc;
+}
+ul.boxcont2 {
+    left: 530px;
+    width: 280px;
+    height: 180px;
+    position: absolute;
+    background-color: #fff;
+
+
+}
+
+ul.boxcont2 li {
+    float: left;
+    margin: 0;
+    left: 0px;
+    padding-top: 30px;
+ list-style: none;   
+ color: rgb(255, 51, 160);
+ font-weight: 600;
+ 
+}
+
+ul.boxcont2 .day {
+    float: right;
+    font-size: 12px;
+    padding-right: 20px;
+    padding-top: 30px;
+    color: #888;
+    
+
+}
+ul.boxcont2 .head {
+    float: left;
+    margin: 0px;
+    padding: auto;
+    left: 25px;
+    top: 60px;
+    font-size: 19px;
+    font-weight: 400;
+    color: #888;
+    text-align: left;
+    letter-spacing: 0px;
+    position: absolute;
+}
+ul.boxcont2 span{
+    
+    font-size: 12px;
+    margin: 0;
+    left: 25px;
+    float: left;
+    padding: auto;
+    position: absolute;
+    top: 120px;
+    text-align: left;
+    width: 280px;
+    color: #ccc;
+}
+
+ul.boxcont3 {
+    left: 860px;
+    width: 280px;
+    height: 180px;
+    position: absolute;
+    background-color: #fff;
+
+
+}
+.newsbody h3{
+    font-size: 72px;
+    padding-top: 250px;
+    padding-bottom: 100px;
+    color: rgb(78, 57, 12);
+    
+}
+
+ul.boxcont3 li {
+    float: left;
+    margin: 0;
+    left: 0px;
+    padding-top: 30px;
+ list-style: none;   
+ color: rgb(255, 51, 160);
+ font-weight: 600;
+ 
+}
+
+ul.boxcont3 .day {
+    float: right;
+    font-size: 12px;
+    padding-right: 20px;
+    padding-top: 30px;
+    color: #888;
+    
+
+}
+ul.boxcont3 .head {
+    float: left;
+    margin: 0px;
+    padding: auto;
+    left: 25px;
+    top: 60px;
+    font-size: 19px;
+    font-weight: 400;
+    color: #888;
+    text-align: left;
+    letter-spacing: 0px;
+    position: absolute;
+}
+ul.boxcont3 span{
+    
+    font-size: 12px;
+    margin: 0;
+    left: 25px;
+    float: left;
+    padding: auto;
+    position: absolute;
+    top: 120px;
+    text-align: left;
+    width: 280px;
+    color: #ccc;
+}
+
+ul.boxcont4 {
+    top: 700px;
+    left: 200px;
+    width: 280px;
+    height: 180px;
+    position: absolute;
+    background-color: #fff;
+
+
+}
+ul.boxcont4 img{
+    width: 270px;
+    position: absolute;
+    left: 20px;
+    top: 10px;
+}
+ul.boxcont5 {
+    top: 700px;
+    left: 530px;
+    width: 280px;
+    height: 180px;
+    position: absolute;
+    background-color: #fff;
+
+
+}
+ul.boxcont5 img{
+    width: 270px;
+    position: absolute;
+    left: 20px;
+    top: 10px;
+}
+ul.boxcont6 {
+    top: 700px;
+    left: 860px;
+    width: 280px;
+    height: 180px;
+    position: absolute;
+    background-color: #fff;
+
+
+}
+ul.boxcont6 img{
+    width: 270px;
+    position: absolute;
+    left: 20px;
+    top: 10px;
+}

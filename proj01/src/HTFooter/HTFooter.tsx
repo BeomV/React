@@ -1,11 +1,12 @@
 import React from "react";
-import './HTFooter.css';
+import './HTfooter.css'
 
-function HTFooter() {
-    return (
-        <div>Header</div>
+function HTfooter() {
 
-    )
+    return <div className="footer">
+        <img src="./images/footer.png"></img>
+
+    </div>
 }
 
-export default HTFooter;
+export default HTfooter;
